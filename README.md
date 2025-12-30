@@ -19,7 +19,7 @@ using modern Kotlin, Android, and Compose Multiplatform.
 - 📱 Android Developer (Kotlin-first)
 - 🧩 Experienced with **Jetpack Compose & Compose Multiplatform**
 - 🧠 Strong interest in **Clean Architecture & MVVM**
-- 🔔 Built and maintained **Smart Notification systems**
+- 🔍 Actively exploring **new tools, frameworks, and mobile technologies**
 - 🌱 Currently learning **performance optimization & modularization**
 - ☕ Coffee-powered coding sessions
 
