@@ -1,8 +1,16 @@
-# Hi 👋 I'm Pascal Aditia
+<!-- HEADER IMAGE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=Pascal%20Aditia&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🚀 **Android Developer | Kotlin Enthusiast | Compose Multiplatform Explorer**
+<h3 align="center">
+🚀 Android Developer | Kotlin Enthusiast | Compose Multiplatform Explorer
+</h3>
 
-I’m a mobile developer focused on building **clean, scalable, and maintainable applications** using modern Kotlin and Android technologies. I also have experience exploring **Compose Multiplatform** to build cross-platform UIs efficiently.
+<p align="center">
+I build <b>clean, scalable, and maintainable mobile applications</b><br/>
+using modern Kotlin, Android, and Compose Multiplatform.
+</p>
 
 ---
 
@@ -12,7 +20,7 @@ I’m a mobile developer focused on building **clean, scalable, and maintainable
 - 🧩 Experienced with **Jetpack Compose & Compose Multiplatform**
 - 🧠 Strong interest in **Clean Architecture & MVVM**
 - 🔔 Built and maintained **Smart Notification systems**
-- 🌱 Currently learning **Compose Multiplatform, performance optimization, and modularization**
+- 🌱 Currently learning **performance optimization & modularization**
 - ☕ Coffee-powered coding sessions
 
 ---
@@ -20,61 +28,51 @@ I’m a mobile developer focused on building **clean, scalable, and maintainable
 ## 🛠 Tech Stack
 
 ### Mobile & UI
-- Kotlin
-- Android SDK
-- Jetpack Compose
-- **Compose Multiplatform**
-- Jetpack (ViewModel, LiveData, Room, Navigation)
-- Coroutines & Flow
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Compose%20Multiplatform-5C2D91?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+</p>
 
-### Architecture & Patterns
-- MVVM
-- Clean Architecture
-- Repository Pattern
-
-### Networking & Data
-- Retrofit / Ktor
-- OkHttp
-- Gson / Moshi
-
-### Tools
-- Android Studio
-- Git & GitHub
-- Firebase
-- Postman / Apidog
-
----
-
-## 📌 Featured Projects
-
-🔹 **Queglims Smart Notification**  
-Android application with an intelligent and structured notification system  
-- Modular & clean architecture  
-- Custom notification handling  
-- Maintainable and scalable codebase  
-
-🔹 **Compose Multiplatform Playground**  
-Exploration of shared UI and business logic using Compose Multiplatform  
-- Shared UI components  
-- Kotlin-first approach  
-- Cross-platform experimentation  
-
-👉 Visit my repositories to see more projects and experiments.
+### Architecture & Async
+<p>
+  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flow-00C853?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pascaladitia&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pascaladitia&layout=compact&theme=tokyonight)
+<p align="center">
+  <!-- GitHub Stats (anti-error params) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pascaladitia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascaladitia&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 GitHub: [github.com/pascaladitia](https://github.com/pascaladitia)
-- 📧 Email: your-email@example.com
+<p>
+  <a href="https://github.com/pascaladitia">
+    <img src="https://img.shields.io/badge/GitHub-pascaladitia-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> _"Build once with care, scale everywhere."_ ✨
+<p align="center">
+  <i>"Build once with care, scale everywhere."</i> ✨
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:7F7FD5&height=120&section=footer"/>
+</p>
