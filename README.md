@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=Pascal%20Aditia&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=Pascal%20Aditia%20Muclis&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
