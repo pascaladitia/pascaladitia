@@ -34,7 +34,6 @@ using modern Kotlin, Android, and Compose Multiplatform.
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Compose%20Multiplatform-5C2D91?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### Architecture & Async
@@ -43,15 +42,6 @@ using modern Kotlin, Android, and Compose Multiplatform.
   <img src="https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Flow-00C853?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pascaladitia&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascaladitia&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
