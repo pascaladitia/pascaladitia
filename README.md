@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-🚀 Android Developer | Kotlin Enthusiast | Compose Multiplatform Explorer
+🚀 Android Developer | Mobile Engineer | Compose Multiplatform Explorer
 </h3>
 
 <p align="center">
@@ -30,9 +30,11 @@ using modern Kotlin, Android, and Compose Multiplatform.
 ### Mobile & UI
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Compose%20Multiplatform-5C2D91?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### Architecture & Async
@@ -48,9 +50,8 @@ using modern Kotlin, Android, and Compose Multiplatform.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats (anti-error params) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pascaladitia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascaladitia&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pascaladitia&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascaladitia&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -61,7 +62,7 @@ using modern Kotlin, Android, and Compose Multiplatform.
   <a href="https://github.com/pascaladitia">
     <img src="https://img.shields.io/badge/GitHub-pascaladitia-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:pascaladitia@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
