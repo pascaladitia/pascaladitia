@@ -91,7 +91,7 @@ val pascal = AndroidEngineer(
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pascaladitia&theme=tokyonight" alt="GitHub profile details" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:020617,50:1D4ED8,100:7C3AED&text=Android%20%7C%20Kotlin%20%7C%20Compose%20%7C%20KMP&fontColor=FFFFFF&fontSize=22&animation=twinkling" alt="Android Kotlin Compose KMP banner" />
 
 </div>
 
