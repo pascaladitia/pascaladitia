@@ -1,69 +1,66 @@
-<!-- HEADER IMAGE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=Pascal%20Aditia%20Muclis&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+# Pascal Aditia Muclis
 
-<h3 align="center">
-🚀 Android Developer | Mobile Engineer | Compose Multiplatform Explorer
-</h3>
+**Senior Android Developer | Kotlin | Jetpack Compose | Kotlin Multiplatform**
 
-<p align="center">
-I build <b>clean, scalable, and maintainable mobile applications</b><br/>
-using modern Kotlin, Android, and Compose Multiplatform.
-</p>
+I build reliable, maintainable, and scalable mobile applications with a strong focus on Android, Kotlin, modern UI, and clean engineering practices. My work is centered around shipping production-ready features, improving code quality, and creating mobile experiences that are easy to evolve over time.
+
+I am especially interested in Android architecture, Compose-based UI, Kotlin Multiplatform, performance, and developer experience. I enjoy working in teams that care about product quality, clear communication, and long-term maintainability.
+
+## What I Work With
+
+**Mobile development**
+
+- Android SDK
+- Kotlin and Java
+- Jetpack Compose
+- Compose Multiplatform
+- Kotlin Multiplatform
+- Material Design
+
+**Architecture and code quality**
+
+- Clean Architecture
+- MVVM and unidirectional data flow
+- Modularization
+- Dependency injection
+- Coroutines and Flow
+- State management
+
+**Product engineering**
+
+- API integration
+- Offline-first thinking
+- Performance optimization
+- Debugging and refactoring
+- Code review
+- CI/CD awareness
+
+## Engineering Principles
+
+- Keep the codebase simple enough to understand and strong enough to scale.
+- Prefer clear architecture over clever shortcuts.
+- Build UI with predictable state and maintainable components.
+- Treat performance, reliability, and readability as part of the feature.
+- Communicate trade-offs clearly before they become technical debt.
+
+## Current Focus
+
+- Building better Kotlin Multiplatform foundations for shared mobile logic.
+- Improving Compose UI architecture for complex production screens.
+- Deepening performance work around startup time, rendering, and modular builds.
+- Preparing for remote and international mobile engineering opportunities.
+
+## Tech Stack
+
+`Kotlin` `Android` `Jetpack Compose` `Compose Multiplatform` `Kotlin Multiplatform` `Java`  
+`Coroutines` `Flow` `Clean Architecture` `MVVM` `Modularization` `Dependency Injection`  
+`REST API` `Git` `Gradle` `CI/CD`
+
+## Contact
+
+- GitHub: [github.com/pascaladitia](https://github.com/pascaladitia)
+- Email: [pascaladitia@gmail.com](mailto:pascaladitia@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
-
-- 📱 Android Developer (Kotlin-first)
-- 🧩 Experienced with **Jetpack Compose & Compose Multiplatform**
-- 🧠 Strong interest in **Clean Architecture & MVVM**
-- 🔍 Actively exploring **new tools, frameworks, and mobile technologies**
-- 🌱 Currently learning **performance optimization & modularization**
-- ☕ Coffee-powered coding sessions
-
----
-
-## 🛠 Tech Stack
-
-### Mobile & UI
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Compose%20Multiplatform-5C2D91?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-</p>
-
-### Architecture & Async
-<p>
-  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flow-00C853?style=for-the-badge"/>
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-<p>
-  <a href="https://github.com/pascaladitia">
-    <img src="https://img.shields.io/badge/GitHub-pascaladitia-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:pascaladitia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Build once with care, scale everywhere."</i> ✨
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:7F7FD5&height=120&section=footer"/>
-</p>
+Open to remote Android/Kotlin/KMP roles and international engineering teams.
