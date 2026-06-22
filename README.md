@@ -1,113 +1,61 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,45:2563EB,100:7C3AED&text=Pascal%20Aditia%20Muclis&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Senior%20Android%20Developer%20%7C%20Kotlin%20%7C%20KMP&descAlignY=58&descSize=16&animation=fadeIn" alt="Pascal Aditia Muclis profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,40:1D4ED8,100:7C3AED&text=Pascal%20Aditia%20Muclis&fontColor=FFFFFF&fontSize=40&fontAlignY=36&desc=Senior%20Android%20Developer%20%7C%20Kotlin%20%7C%20KMP&descAlignY=58&descSize=16&animation=fadeIn" alt="Pascal Aditia Muclis" />
 
-  <br />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+production-ready+Android+apps;Kotlin-first+mobile+engineering;Jetpack+Compose+and+Kotlin+Multiplatform;Clean+architecture%2C+performance%2C+maintainability" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Production-ready+Android+apps;Kotlin-first+mobile+engineering;Jetpack+Compose+%2B+Kotlin+Multiplatform;Clean+architecture+with+product+quality" alt="Typing animation" />
 
   <br />
   <br />
 
   <a href="https://github.com/pascaladitia">
-    <img src="https://img.shields.io/badge/GitHub-pascaladitia-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-pascaladitia-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:pascaladitia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pascaladitia%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20International%20Roles-16A34A?style=flat-square" alt="Open to remote and international roles" />
+  <img src="https://img.shields.io/badge/Remote-Available-16A34A?style=for-the-badge" alt="Remote available" />
 
 </div>
 
----
+<br />
 
-## About
+<div align="center">
 
-I am a **Senior Android Developer** focused on building reliable, maintainable, and scalable mobile applications with **Kotlin**, **Jetpack Compose**, and **Kotlin Multiplatform**.
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,firebase" alt="Tech stack icons" />
 
-I care about clean architecture, predictable state, performance, and codebases that remain easy to work with as the product grows. I enjoy collaborating with product-minded engineering teams, reviewing trade-offs clearly, and shipping features with long-term quality in mind.
+</div>
 
 <br />
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Mobile Engineering</h3>
-      <p>
-        Android SDK, Kotlin, Java, Jetpack Compose, Compose Multiplatform,
-        Kotlin Multiplatform, Material Design, responsive UI, and production app delivery.
-      </p>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Android-Production%20Apps-16A34A?style=for-the-badge&logo=android&logoColor=white" alt="Android production apps" />
     </td>
-    <td width="50%">
-      <h3>Architecture</h3>
-      <p>
-        Clean Architecture, MVVM, modularization, dependency injection,
-        Coroutines, Flow, state management, and maintainable feature boundaries.
-      </p>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Kotlin-First-7C3AED?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin first" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Product Quality</h3>
-      <p>
-        API integration, offline-first thinking, debugging, refactoring,
-        performance optimization, code review, and release readiness.
-      </p>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Compose-Modern%20UI-2563EB?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
     </td>
-    <td width="50%">
-      <h3>Current Focus</h3>
-      <p>
-        Stronger KMP foundations, scalable Compose UI architecture,
-        startup performance, rendering performance, and modular builds.
-      </p>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/KMP-Shared%20Logic-0F172A?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
     </td>
   </tr>
 </table>
 
-## Tech Stack
+## Focus
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,firebase" alt="Core tech stack" />
-
-  <br />
-  <br />
-
-  <img src="https://img.shields.io/badge/Kotlin-7C3AED?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-16A34A?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-2563EB?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-111827?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
-
-  <br />
-  <br />
 
   <img src="https://img.shields.io/badge/Clean%20Architecture-0F172A?style=flat-square" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/MVVM-0F172A?style=flat-square" alt="MVVM" />
   <img src="https://img.shields.io/badge/Coroutines-0F172A?style=flat-square" alt="Coroutines" />
   <img src="https://img.shields.io/badge/Flow-0F172A?style=flat-square" alt="Flow" />
   <img src="https://img.shields.io/badge/Modularization-0F172A?style=flat-square" alt="Modularization" />
+  <img src="https://img.shields.io/badge/Performance-0F172A?style=flat-square" alt="Performance" />
   <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=flat-square" alt="CI/CD" />
-
-</div>
-
-## Engineering Values
-
-```kotlin
-val engineeringMindset = listOf(
-    "Build features that are simple to use and easy to maintain",
-    "Keep architecture clear before the codebase becomes expensive to change",
-    "Make UI state predictable, testable, and resilient",
-    "Treat performance and reliability as part of the product experience",
-    "Communicate trade-offs early and document decisions when they matter"
-)
-```
-
-## GitHub Snapshot
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pascaladitia&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=420" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascaladitia&layout=compact&theme=tokyonight&hide_border=true&card_width=360" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Code%20Review-0F172A?style=flat-square" alt="Code Review" />
 
 </div>
 
@@ -115,19 +63,43 @@ val engineeringMindset = listOf(
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pascaladitia&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pascaladitia&theme=tokyonight" alt="GitHub profile details" />
 
 </div>
 
-## Contact
-
-I am open to **remote Android/Kotlin/KMP roles** and international engineering teams.
-
-- GitHub: [github.com/pascaladitia](https://github.com/pascaladitia)
-- Email: [pascaladitia@gmail.com](mailto:pascaladitia@gmail.com)
+## Contribution Snake
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,55:2563EB,100:0F172A" alt="Profile footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pascaladitia/pascaladitia/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pascaladitia/pascaladitia/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/pascaladitia/pascaladitia/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" alt="Divider" />
+
+  <br />
+  <br />
+
+  <b>Open to remote Android, Kotlin, and Kotlin Multiplatform roles.</b>
+
+  <br />
+  <br />
+
+  <a href="https://github.com/pascaladitia">
+    <img src="https://img.shields.io/badge/GitHub-pascaladitia-020617?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:pascaladitia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pascaladitia%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,50:2563EB,100:020617" alt="Footer" />
 
 </div>
